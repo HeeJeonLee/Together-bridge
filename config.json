@@ -1,0 +1,12 @@
+{
+  "content_engine": {
+    "provider": "Claude",
+    "api_url": "https://api.anthropic.com/v1/complete",
+    "api_key": "YOUR_KEY"
+  },
+  "voice_engine": {
+    "provider": "ElevenLabs",
+    "api_url": "https://api.elevenlabs.io/v1/tts",
+    "api_key": "YOUR_KEY"
+  }
+}
